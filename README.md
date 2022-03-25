@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @anu-sha-brs
-- 👀 I’m interested in python automation projects and devops
-- 🌱 I’m currently learning cloud AWS 
-- 💞️ I’m looking to collaborate on docker, python projects
-- 📫 How to reach me anusha.brs@gmail.com
+### Hi, I'm Anusha 👋 
+
+### I'm a Software Developer, Mother and an Agile Enthusiast!!
+
+- 👩🏻‍💻 I'm working on cloud native application development
+- 👀 I’m interested in python automation projects
+- 🌱 I’m currently learning hyperscalers like AWS, Azure
+- 💞️ I’m looking to collaborate on open source python and docker projects
+- 📫 How to reach me [GMAIL](anusha.brs@gmail.com)
 
 <!---
 anu-sha-brs/anu-sha-brs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
